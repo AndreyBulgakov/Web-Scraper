@@ -26,12 +26,12 @@
       <file leaf-file-name="WebScraper.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WebScraper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53678477" vertical-offset="1520" max-vertical-offset="1887">
-              <caret line="101" column="19" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
+            <state vertical-scroll-proportion="-1.0190736" vertical-offset="1105" max-vertical-offset="1802">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2203#2220#0" expanded="true" />
-                <element signature="e#2899#2907#0" expanded="true" />
+                <element signature="e#2053#2070#0" expanded="true" />
+                <element signature="e#2749#2757#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -267,7 +267,7 @@
     <configuration default="false" name="WebScraper" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WebScraper" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="d:\a.txt Korea,CNN,Java -v -c -w -e" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -307,7 +307,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -370,8 +370,8 @@
           <caret line="72" column="89" selection-start-line="72" selection-start-column="89" selection-end-line="72" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2203#2220#0" expanded="true" />
-            <element signature="e#2899#2907#0" expanded="true" />
+            <element signature="e#2053#2070#0" expanded="true" />
+            <element signature="e#2749#2757#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -390,8 +390,8 @@
           <caret line="75" column="30" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2203#2220#0" expanded="true" />
-            <element signature="e#2899#2907#0" expanded="true" />
+            <element signature="e#2053#2070#0" expanded="true" />
+            <element signature="e#2749#2757#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -402,8 +402,8 @@
           <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2203#2220#0" expanded="true" />
-            <element signature="e#2899#2907#0" expanded="true" />
+            <element signature="e#2053#2070#0" expanded="true" />
+            <element signature="e#2749#2757#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -440,12 +440,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WebScraper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53678477" vertical-offset="1520" max-vertical-offset="1887">
-          <caret line="101" column="19" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
+        <state vertical-scroll-proportion="-1.0190736" vertical-offset="1105" max-vertical-offset="1802">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2203#2220#0" expanded="true" />
-            <element signature="e#2899#2907#0" expanded="true" />
+            <element signature="e#2053#2070#0" expanded="true" />
+            <element signature="e#2749#2757#0" expanded="true" />
           </folding>
         </state>
       </provider>

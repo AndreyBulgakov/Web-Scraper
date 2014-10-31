@@ -41,11 +41,6 @@ public class WebScraper {
                 executeArg(args[i], url, words, doc);
             }
             System.out.println("--------------------");
-
-            FileWriter writer = new FileWriter("d:\\b.txt");
-            writer.write(doc.getText(0, doc.getLength()));
-            writer.close();
-
         }
     }
     //Counting number of words
