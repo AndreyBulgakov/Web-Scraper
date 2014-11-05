@@ -1,5 +1,6 @@
 import javax.swing.text.BadLocationException;
 import java.io.*;
+import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.*;
 
@@ -22,8 +23,7 @@ public class WebScraper {
             }
         }
         else {
-            System.out.println("Bad path");
-            return;
+            throw new MalformedURLException();
         }
         //Creating array of words
         String[] words = args[1].split(",");
